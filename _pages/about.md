@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my website and blog! I am Kartik Ramachandrula, a High School Junior at Brookfield Central High School in Brookfield, Wisconsin. 
+
+My academic interests lie in Mathematics, Physics, Computer Science, and any field that involves problem-solving or creative thinking. I have been involved in Math and Physics Olympiads (USAMO & USAPhO) qualifying for the 2023 U.S. Physics Team. I am currently completing research in the 2024 MIT PRIMES-USA (Program for Research in Mathematics, Engineering and Science for High School Students) cohort in scientific machine learning and will complete particle physics research at the 2024 RSI (Research Summer Institute).
+
+I also love learning languages (Telugu and Sanskrit), history (Indology), and philosophy (Vedic or otherwise); playing Tennis and Badminton; watching Cricket; and fault-finding Tollywood and Bollywood movies.
+
+Check out my [blog](https://kartikramachandrula.github.io/blog/) to read some of my varied musings!
+
+
+
+<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======

@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Writings & Papers"
-permalink: /writings/
+title: "Writing & Papers"
+permalink: /writing/
 author_profile: true
 ---
 

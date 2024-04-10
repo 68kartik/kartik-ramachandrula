@@ -7,7 +7,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog"
-    url: /blog/
+    url: https://kartikramachandrula.substack.com/
 
   - title: "Writings"
     url: /writing/

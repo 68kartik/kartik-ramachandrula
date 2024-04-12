@@ -11,7 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-2023 PROMYS Exploratory Lab on "Enumeration of Rational Number Tuples." ([pdf](https://kartikramachandrula.github.io/files/Counting_Rationals_Final_Report.pdf)) ([slides](https://kartikramachandrula.github.io/files/Counting_Rationals_Final_Presentation.pdf)) 
+Under construction 🚧👷‍♂️
+
+<!--2023 PROMYS Exploratory Lab on "Enumeration of Rational Number Tuples." ([pdf](https://kartikramachandrula.github.io/files/Counting_Rationals_Final_Report.pdf)) ([slides](https://kartikramachandrula.github.io/files/Counting_Rationals_Final_Presentation.pdf)) -->
 
 <!--{% for post in site.publications reversed %}
   {% include archive-single.html %}
